@@ -1,17 +1,17 @@
 # CaseStrategyGame
 Console Game
 
-==================================================================
+===========================
 System Requirements
-==================================================================
+===========================
 
 · Microsoft® Windows® XP or neer versions
 · PC with 1.6 Ghz equivalent or higher processor 
 · 32 MB of system RAM 
 
-==================================================================
+===========================
 How to play
-==================================================================
+===========================
 
 · Enter your nickname
 · Select move types from given list (type only 1 or 2 or 3)
