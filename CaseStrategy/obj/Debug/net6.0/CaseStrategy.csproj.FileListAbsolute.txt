@@ -1,0 +1,15 @@
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\bin\Debug\net6.0\CaseStrategy.exe
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\bin\Debug\net6.0\CaseStrategy.deps.json
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\bin\Debug\net6.0\CaseStrategy.runtimeconfig.json
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\bin\Debug\net6.0\CaseStrategy.dll
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\bin\Debug\net6.0\CaseStrategy.pdb
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\CaseStrategy.csproj.AssemblyReference.cache
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\CaseStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\CaseStrategy.AssemblyInfoInputs.cache
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\CaseStrategy.AssemblyInfo.cs
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\CaseStrategy.csproj.CoreCompileInputs.cache
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\CaseStrategy.dll
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\refint\CaseStrategy.dll
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\CaseStrategy.pdb
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\CaseStrategy.genruntimeconfig.cache
+C:\Users\mutlusakir.nur\Desktop\The game\CaseStrategy\CaseStrategy\obj\Debug\net6.0\ref\CaseStrategy.dll
