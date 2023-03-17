@@ -1,9 +1,9 @@
 # CaseStrategyGame
 Console Game
 
-===========================
+=
 System Requirements
-===========================
+=
 
 · Microsoft® Windows® XP or neer versions
 · PC with 1.6 Ghz equivalent or higher processor 
